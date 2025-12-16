@@ -46,19 +46,6 @@ Dynamic-Website-Builder/
 
 ---
 
-## 🧪 Example Usage
-
-create_card(  
-  "Dynamic Website Builder | Sigma Web Dev video #73",  
-  "CodeWithHarry",  
-  560000,  
-  7,  
-  "31:20",  
-  "https://i.ytimg.com/vi/KtL-SQ20Q0s/hqdefault.jpg"  
-);
-
----
-
 ## 🎯 Learning Highlights
 
 - JavaScript DOM manipulation  
