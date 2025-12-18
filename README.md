@@ -55,13 +55,4 @@ Dynamic-Website-Builder/
 
 ---
 
-## 🚀 Future Enhancements
-
-- Generate cards from an array of data  
-- Improve responsiveness for smaller screens  
-- Add interactivity  
-- Enhance UI with animations  
-
----
-
 ⭐ If you find this project useful, consider giving it a star!
